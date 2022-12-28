@@ -1,4 +1,15 @@
-# Rolling-Scopes-School-Stage0
+# RS SCHOOL STAGE 0
 
-1. [Travel](https://rolling-scopes-school.github.io/soblvsk-JSFEPRESCHOOL2022Q2/travel/)
-2. [Momentum](https://rolling-scopes-school.github.io/soblvsk-JSFEPRESCHOOL2022Q2/momentum/)
+Tasks from the course
+
+
+## Deploy
+
+- [Travel](https://rolling-scopes-school.github.io/soblvsk-JSFEPRESCHOOL2022Q2/travel/)
+- [Momentum](https://rolling-scopes-school.github.io/soblvsk-JSFEPRESCHOOL2022Q2/momentum/)
+
+
+
+## Author
+
+- [@soblvsk](https://www.github.com/soblvsk)
