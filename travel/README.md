@@ -1,9 +1,9 @@
-# Travel
+# 🗺️ Travel
 
 Travel – интерактивный и адаптивный landing page сайта для планирования путешествий.
 
 
-## Information
+## 📜 Information
 1. Task: https://github.com/rolling-scopes-school/tasks/blob/master/tasks/travel/travel.md
 2. Screenshot: ![image](https://user-images.githubusercontent.com/81454805/179502315-da9a7191-811a-4d91-8e8e-cc0a4ecccd96.png)
 3. Deploy: https://rolling-scopes-school.github.io/soblvsk-JSFEPRESCHOOL2022Q2/travel/
@@ -16,7 +16,7 @@ Travel – интерактивный и адаптивный landing page са�
     - **Travel#2** 75/75
     - **Travel#3** 100/100
 
-## Application functionality
+## 📌 Application functionality
 
 Задание состоит из трёх частей:
 
@@ -36,12 +36,12 @@ Travel – интерактивный и адаптивный landing page са�
     - оживить кнопку Login после нажатия которой должен появляться Login pop up и который будет содержать форму
   - проверяется реализованный функционал
 
-## Tech Stack
+## ⚙️ Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Author
+## 👀 Author
 
 - [@soblvsk](https://www.github.com/soblvsk)
