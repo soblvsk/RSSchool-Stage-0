@@ -38,8 +38,8 @@ Travel – интерактивный и адаптивный landing page са�
 
 ## ⚙️ Tech Stack
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## 👀 Author
