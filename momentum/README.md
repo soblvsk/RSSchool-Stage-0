@@ -107,8 +107,8 @@ Momentum - аналог одноимённого приложения интер
 
 ## ⚙️ Tech Stack
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## 👀 Author
